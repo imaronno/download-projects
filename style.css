@@ -1,0 +1,70 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.h1-top {
+    text-align: center;
+}
+
+.Button {
+    color: white;
+    background-color: green;
+    text-decoration: none;
+    border-radius: 7%;
+    padding: 6px;
+}
+
+.Buttons {
+    display: flex;
+    gap: 5%;
+    justify-content: center;
+}
+
+.Linkedin {
+    text-decoration: none;
+    color: black;
+}
+
+.Github {
+    text-decoration: none;
+    color: black;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    padding: 1%;
+}
+
+.Sub {
+    padding: 5%;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Shadow-0-1 {
+    height: 120px;
+    gap: 50px;
+    width: 23%;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 2%;
+}
+
+.sub-3 {
+    background-color: tomato;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 6px;
+    padding-bottom: 8px;
+    border-radius: 6%;
+    margin-top: 3%;
+    text-decoration: none;
+    color: white;
+    margin-top: 34%;
+}
+
+.icon {
+    margin-left: 89%;
+    margin-top: -3%;
+}
